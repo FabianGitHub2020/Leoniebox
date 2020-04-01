@@ -1,2 +1,2 @@
 # Leoniebox
-Eine Musikbox für meine kleine Tochter auf Basis der Idee von MiczFlor. https://github.com/MiczFlor/RPi-Jukebox-RFID
+A music box for my little daughter based on the idea of MiczFlor. https://github.com/MiczFlor/RPi-Jukebox-RFID
